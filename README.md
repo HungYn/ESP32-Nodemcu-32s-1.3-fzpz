@@ -4,4 +4,4 @@
 https://docs.ai-thinker.com/esp32-s%E5%BC%80%E5%8F%91%E6%9D%BF
 
 
-<img src="./ESP32Nodemcu-32s.png" alt="" width="287" height="639" title="">
+<img src="./ESP32 Nodemcu-32s.svg" alt="" width="287" height="639" title="">
